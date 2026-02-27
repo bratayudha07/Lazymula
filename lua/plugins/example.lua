@@ -5,9 +5,9 @@
 
 -- Kembalikan tabel kosong karena ini hanya contoh
 -- Hapus baris ini jika Anda ingin menggunakan file ini untuk konfigurasi aktual
-if true then
-  return {}
-end
+-- if true then
+--   return {}
+-- end
 
 -- Di bawah ini adalah contoh konfigurasi plugin.
 -- Jika Anda ingin menggunakannya, pindahkan ke file terpisah atau
